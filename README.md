@@ -35,6 +35,7 @@ git clone https://github.com/Dibyaranjan450/assignment-todo.git
 cd assignment-todo
 npm install
 npm run dev
+```
 
 > ⚠️ **Note on Delete Functionality**  
 > When a post is deleted in the app, it is removed only from the UI (application state). This is because the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/) is a mock service and does **not persist DELETE requests**. The post will reappear on page reload or full data refetch.
