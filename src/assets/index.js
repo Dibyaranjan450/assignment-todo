@@ -1,0 +1,10 @@
+export { default as menuHamburger } from "./menuHamburger.svg";
+export { default as brandLogo } from "./brandLogo.svg";
+export { default as userAvatar } from "./userAvatar.svg";
+export { default as settingSvg } from "./settingSvg.svg";
+export { default as alertBell } from "./alertBell.svg";
+export { default as dropdownArrow } from "./dropdownArrow.svg";
+export { default as timeIcon } from "./timeIcon.svg";
+export { default as scoringStar } from "./scoringStar.svg";
+export { default as metricIndexArrow } from "./metricIndexArrow.svg";
+export { default as indexInfoSvg } from "./indexInfoSvg.svg";
