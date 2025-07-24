@@ -1,4 +1,4 @@
-# assignment-todo
+<!-- # assignment-todo
 
 A simple, clean React + Vite app that demonstrates CRD-like functionality using a mock API. Built for assignment purposes with production-level code structure, styling, and logic.
 
@@ -26,7 +26,7 @@ A simple, clean React + Vite app that demonstrates CRD-like functionality using 
 - 🌐 JSONPlaceholder API
 - 🔧 React Router DOM
 
----
+--- -->
 
 
 
@@ -39,6 +39,6 @@ npm install
 npm run dev
 ```
 
-> ⚠️ **Note on Delete Functionality**
+<!-- > ⚠️ **Note on Delete Functionality**
 >
-> When a post is deleted in the app, it is removed only from the UI (application state). This is because the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/) is a mock service and does **not persist DELETE requests**. The post will reappear on page reload or full data refetch.
+> When a post is deleted in the app, it is removed only from the UI (application state). This is because the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/) is a mock service and does **not persist DELETE requests**. The post will reappear on page reload or full data refetch. -->
